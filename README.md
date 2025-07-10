@@ -9,11 +9,10 @@
 
 ## 💻 Compétences techniques
 
-- **Langages** : HTML, CSS, JavaScript, PHP, Python, SQL, C, C#
+- **Langages** : HTML, CSS, JavaScript, PHP, Python, SQL, C#
 - **Frameworks / CMS** : React, Next.js, CakePHP, WordPress
 - **Base de données** : MySQL, PostgreSQL
-- **Outils** : Git, GitHub, Android Studio, VS Code, GLPI
-- **Systèmes** : Windows, Linux (Debian, Ubuntu), Windows Server
+- **Outils** : Git, GitHub, Cursor
 
 ---
 
@@ -39,7 +38,7 @@
 ## 📫 Me contacter
 
 - 📧 Email : promathis.hautbois@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/mathis-hautbois) *(ajoute-le si tu l’as)*  
+- 🌐 [LinkedIn]([https://linkedin.com/in/mathis-hautbois](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://re.linkedin.com/in/mathis-hautbois-3703ab282&ved=2ahUKEwj6jKm31rGOAxVyWEEAHWhOHrAQFnoECBgQAQ&usg=AOvVaw0qhkovYarzM7q6Badqdo-v))  
 - 🗂️ Portfolio : bientôt en ligne
 
 ---
