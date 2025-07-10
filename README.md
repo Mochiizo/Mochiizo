@@ -38,7 +38,7 @@
 ## 📫 Me contacter
 
 - 📧 Email : promathis.hautbois@gmail.com  
-- 🌐 [LinkedIn]([https://linkedin.com/in/mathis-hautbois](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://re.linkedin.com/in/mathis-hautbois-3703ab282&ved=2ahUKEwj6jKm31rGOAxVyWEEAHWhOHrAQFnoECBgQAQ&usg=AOvVaw0qhkovYarzM7q6Badqdo-v))  
+- 🌐 [LinkedIn]([https://linkedin.com/in/mathis-hautbois](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://re.linkedin.com/in/mathis-hautbois-3703ab282&ved=2ahUKEwj6jKm31rGOAxVyWEEAHWhOHrAQFnoECBgQAQ&usg=AOvVaw0qhkovYarzM7q6Badqdo-v)  
 - 🗂️ Portfolio : bientôt en ligne
 
 ---
