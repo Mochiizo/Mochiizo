@@ -11,7 +11,7 @@
 - **Langages** : HTML, CSS, JavaScript, PHP, Python, SQL, C# .NET
 - **Frameworks / CMS** : React, Next.js, CakePHP, WordPress
 - **Base de données** : MySQL, PostgreSQL
-- **Outils** : Git, GitHub, Cursor, Jenkins, GitHub, GitLab
+- **Outils** : Git, GitHub, Cursor, Jenkins, GitLab, ChatGpt
 
 ---
 
