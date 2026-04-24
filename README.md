@@ -1,7 +1,6 @@
 # 👋 Salut, moi c’est Mathis Hautbois
 
-🎓 Étudiant en Bachelor Concepteur de Systèmes d'Information (CSI)  
-💼 Alternant développeur Full Stack chez SFR Réunion  
+🎓 Diplomé d'un BTS SIO Spécialisé dans le développement d'application   
 📍 Basé à La Réunion (974)  
 🌐 Passionné par le développement web, mobile et les solutions innovantes
 
