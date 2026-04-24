@@ -1,17 +1,17 @@
 # 👋 Salut, moi c’est Mathis Hautbois
 
 🎓 Diplomé d'un BTS SIO Spécialisé dans le développement d'application   
-📍 Basé à La Réunion (974)  
+📍 Jeune réunionnais basé dans le sud de la France  
 🌐 Passionné par le développement web, mobile et les solutions innovantes
 
 ---
 
 ## 💻 Compétences techniques
 
-- **Langages** : HTML, CSS, JavaScript, PHP, Python, SQL, C#
+- **Langages** : HTML, CSS, JavaScript, PHP, Python, SQL, C# .NET
 - **Frameworks / CMS** : React, Next.js, CakePHP, WordPress
 - **Base de données** : MySQL, PostgreSQL
-- **Outils** : Git, GitHub, Cursor
+- **Outils** : Git, GitHub, Cursor, Jenkins, GitHub, GitLab
 
 ---
 
@@ -20,7 +20,7 @@
 - 📱 Application Android éducative pour le calcul de périmètre/aire – *PHP, Kotlin, PostgreSQL*
 - 🏀 Site de gestion de matchs sportifs – *CakePHP, MySQL*
 - 🧠 Chatbot IA pour support client – *Hugging Face, Python*
-- 💡 Projet en cours : générateur de documents professionnels – *Next.js, PostgreSQL, Auth*
+- 💡 Projet en cours : Application de sécurité – *Next.js, PostgreSQL, Auth*
 
 > 🔗 Plus de projets disponibles bientôt sur mon portfolio (en cours de développement)
 
